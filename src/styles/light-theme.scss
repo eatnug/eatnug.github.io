@@ -43,6 +43,16 @@ body.light {
     }
   }
 
+  .post_tag {
+    background-color: $light-tag-item-color;
+    box-shadow: 1px 1px 1px 1px $light-tag-item-shadow;
+    &[aria-selected='true'] {
+      border: 2px solid $light-tag-item-border-color;
+    }
+  }
+  .metabox {
+    background-color: #53e978;
+  }
   .thumbnail {
     h3 {
       color: $dark-gray;

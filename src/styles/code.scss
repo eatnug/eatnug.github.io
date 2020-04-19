@@ -8,6 +8,16 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
 @import './variables.scss';
 
+.social-share > a > div > div > svg {
+  @media screen and (max-width: 480px) {
+    margin: 0;
+  }
+}
+.service-label {
+  @media screen and (max-width: 480px) {
+    display: none;
+  }
+}
 .gatsby-highlight-code-line {
   background-color: hsla(207, 95%, 15%, 1);
   display: block;

@@ -44,6 +44,16 @@ body.dark {
     }
   }
 
+  .post_tag {
+    background-color: $dark-tag-item-color;
+    box-shadow: 1px 1px 1px 1px $dark-tag-item-shadow;
+    &[aria-selected='true'] {
+      border: 2px solid $dark-tag-item-border-color;
+    }
+  }
+  .metabox {
+    background-color: #76ad60;
+  }
   .thumbnail {
     h3 {
       color: $dark-light-font-color;

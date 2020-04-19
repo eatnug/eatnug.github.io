@@ -1,0 +1,11 @@
+@import '../../styles/variables.scss';
+
+.post_tag {
+  display: inline-block;
+  margin: 3px 5px;
+  border-radius: 5px;
+  white-space: normal;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-style: italic;
+}
