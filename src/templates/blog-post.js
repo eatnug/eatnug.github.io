@@ -38,12 +38,16 @@ export default ({ data, pageContext, location }) => {
         date={post.frontmatter.date}
       />
       <PostContainer html={post.html} />
-      <SocialShare title={post.frontmatter.title} author={author} />
+      <div style={{ padding: '0 3%' }}>
+        <SocialShare title={post.frontmatter.title} author={author} />
+      </div>
       {!!sponsor.buyMeACoffeeId && (
         <SponsorButton sponsorId={sponsor.buyMeACoffeeId} />
       )}
       <Elements.Hr />
-      <Bio />
+      <div style={{ padding: '0 3%' }}>
+        <Bio />
+      </div>
       <PostNavigator pageContext={pageContext} />
       {!!disqusShortName && (
         <Disqus

@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import './index.scss'
 
 const src = 'https://utteranc.es/client.js'
 const branch = 'master'
@@ -23,5 +24,5 @@ export const Utterences = ({ repo }) => {
     rootElm.current.appendChild(utterances)
   }, [])
 
-  return <div className="utterences" ref={rootElm} />
+  return <div className="utterences" ref={rootElm}/>
 }
