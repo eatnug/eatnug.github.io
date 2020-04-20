@@ -77,7 +77,7 @@
     "url": "git+https://github.com/eaTnuG/eatnug.github.io.git "
   },
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b master",
+    "deploy": "gatsby build && gh-pages -d public -b master -m",
     "post": "gatsby-post-gen",
     "dev": "gatsby develop",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
