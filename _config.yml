@@ -1,11 +1,11 @@
-title: Hexo
-subtitle: ''
-description: ''
+title: 'Avocode'
+subtitle: 'Avocode'
+description: 'Avocode'
 keywords: null
-author: John Doe
-language: en
-timezone: ''
-url: 'http://example.com'
+author: Jacob Park
+language: ko
+timezone: 'Asia/Seoul'
+url: 'http://eatnug.github.io'
 root: /
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
