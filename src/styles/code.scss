@@ -8,6 +8,10 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
 @import './variables.scss';
 
+img.gatsby-resp-image-image {
+  width: 10px;
+}
+
 .social-share > a > div > div > svg {
   @media screen and (max-width: 480px) {
     margin: 0;
