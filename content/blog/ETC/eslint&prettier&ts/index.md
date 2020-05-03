@@ -1,7 +1,7 @@
 ---
 title: 번역] 타입스크립트 프로젝트에서 eslint와 prettier 사용하기
 date: 2020-04-19
-category: 'Translated'
+category: 'ETC'
 tags: ['typescript', 'eslint', 'prettier', 'tools']
 ---
 

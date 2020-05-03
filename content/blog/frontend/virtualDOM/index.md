@@ -1,8 +1,8 @@
 ---
 title: 번역] Virtual DOM 이해하기
 date: 2019-11-19
-category: 'Translated'
-tags: ['dom']
+category: 'Frontend'
+tags: ['dom', 'tranlated']
 ---
 
 > 본 글은 virtual DOM에 관한 [Ire Aderinokun](https://ireaderinokun.com/) 글을 번역한 것 입니다. 이해를 돕기위한 의역이 존재합니다.
