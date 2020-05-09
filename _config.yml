@@ -1,10 +1,10 @@
-title: 'Avocode'
-subtitle: 'Avocode'
-description: 'Avocode'
+title: Eatnug
+subtitle: ''
+description: ''
 keywords: null
-author: Jacob Park
+author: 박건태
 language: ko
-timezone: 'Asia/Seoul'
+timezone: Asia/Seoul
 url: 'http://eatnug.github.io'
 root: /
 permalink: ':year/:month/:day/:title/'
@@ -61,5 +61,8 @@ include: null
 exclude: null
 ignore: null
 theme: icarus
+article:
+  thumbnail: true
 deploy:
   type: ''
+

@@ -20,9 +20,10 @@ widgets:
 toc: true
 thumbnail: /img/thumbnail.png
 cover: /img/cover.png
-title: {{ title }}
-date: {{ date }}
+title: mobile/codepush
 tags: []
 category: mobile
+date: 2020-09-24 01:22:42
 excerpt: ''
+archives: sss
 ---
