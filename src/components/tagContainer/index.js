@@ -4,7 +4,9 @@ import Tag from '../../components/tag'
 
 export const TagContainer = ({ tags, tag, selectTag }) => {
   return (
-    <Container>
+    <Container
+    className="tagContainer"
+    >
       <Tag
         tag={'all'}
         onClick={() => selectTag('all')}
@@ -23,15 +25,7 @@ export const TagContainer = ({ tags, tag, selectTag }) => {
 }
 
 const Container = styled.ul`
-  margin: 0px !important;
-  box-sizing: border-box;
-  padding: 5px 5px;
-  white-space: nowrap;
-  overflow: auto;
-  ::-webkit-scrollbar {
-    display: none;
-  }
-  align-items: center;
+
 `
 
 const Box = styled.p`

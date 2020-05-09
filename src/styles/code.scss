@@ -8,14 +8,14 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
 @import './variables.scss';
 
-.gatsby-resp-image-background-image {
-  width: 50%;
-}
-
 img.gatsby-resp-image-image {
   width: 10px;
 }
 
+div.sc-fznZeY > p > img {
+  margin-left: auto;
+  margin-right: auto;
+}
 .social-share > a > div > div > svg {
   @media screen and (max-width: 480px) {
     margin: 0;
@@ -44,9 +44,8 @@ code[class*='language-'],
 pre[class*='language-'] {
   color: #e0e0e0;
   background: none;
-  font-family: 'D2Coding';
-  // font-family: 'D2Coding', 'Fira Code', 'Consolas', 'Monaco', 'Andale Mono',
-  //   'Ubuntu Mono', monospace;
+  font-family: 'Fira Code', 'Consolas', 'Monaco', 'Andale Mono', 'Ubuntu Mono',
+    monospace;
   text-align: left;
   white-space: pre;
   word-spacing: normal;
@@ -166,4 +165,17 @@ pre[class*='language-'] {
 
 .token.inserted {
   color: green;
+}
+
+.tagContainer {
+  margin: 0px !important;
+  box-sizing: border-box;
+  padding: 5px 5px;
+  white-space: nowrap;
+  overflow: auto;
+  align-items: center;
+}
+
+.tagContainer::-webkit-scrollbar {
+  display: none;
 }
