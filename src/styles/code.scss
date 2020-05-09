@@ -8,6 +8,10 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
 @import './variables.scss';
 
+.gatsby-resp-image-background-image {
+  width: 50%;
+}
+
 img.gatsby-resp-image-image {
   width: 10px;
 }
@@ -40,8 +44,9 @@ code[class*='language-'],
 pre[class*='language-'] {
   color: #e0e0e0;
   background: none;
-  font-family: 'Fira Code', 'Consolas', 'Monaco', 'Andale Mono', 'Ubuntu Mono',
-    monospace;
+  font-family: 'D2Coding';
+  // font-family: 'D2Coding', 'Fira Code', 'Consolas', 'Monaco', 'Andale Mono',
+  //   'Ubuntu Mono', monospace;
   text-align: left;
   white-space: pre;
   word-spacing: normal;

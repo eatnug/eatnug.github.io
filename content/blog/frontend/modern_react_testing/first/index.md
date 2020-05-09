@@ -5,6 +5,8 @@ category: 'Frontend'
 tags: ['react', 'testing', 'translated']
 ---
 
+![banner](./title.png)
+
 > Artem Sapegin의 [Modern React testing, part 1: best practices](https://blog.sapegin.me/all/react-testing-1-best-practices/)를 저작자의 허가를 받고 번역한 글입니다.
 
 이 시리즈는 React 컴포넌트, 좀 더 보편적으로는 프론트엔드 분야에서 이루어지는 테스팅의 오늘날 모습을 심층적으로 요약한 것으로, 단순히 방법만이 아니라 이유에 관해서도 설명합니다. 왜 자동화된 테스트를 작성해야 하고, 어떤 테스트를 해야 하는지, 어떻게 테스트해야 하는지에 대해 알아볼 것이고, 더 나아가서는 Jest, Enzyme 그리고 React Testing Library를 사용해서 어떻게 리액트 컴포넌트를 하는지 알아볼 것입니다.
@@ -39,7 +41,7 @@ tags: ['react', 'testing', 'translated']
 
 [Mike Cohn](http://www.mountaingoatsoftware.com/)이 소개한 테스팅 피라미드는 소프트웨어 테스팅에 있어서 아마 가장 유명한 접근법일 겁니다.
 
-![test-pyramid](./testing-pyramid.svg)
+![test-pyramid](./testing-pyramid.png)
 
 이에 따르면 UI 테스트는 가장 느리며 코드 작성에 큰 비용이 드는 반면, 유닛 테스트는 가장 빠르고 비용이 저렴하므로, UI 테스트보다는 유닛 테스트를 더 많이 작성해야 한다고 합니다.
 
@@ -51,7 +53,7 @@ tags: ['react', 'testing', 'translated']
 
 [Kent C. Dodds](https://kentcdodds.com/blog/write-tests)의 **테스팅 트로피**는 프론트엔트 테스트 분야에서 인기를 모으고 있습니다.
 
-![testing-trophy](./testing-trophy.svg)
+![testing-trophy](./testing-trophy.png)
 
 그의 주장에 따르면 통합 테스트가 가장 가성비가 좋아서, 다른 테스트보다는 통합 테스트를 많이 작성해야 한다고 합니다.
 

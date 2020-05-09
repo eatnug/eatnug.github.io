@@ -29,7 +29,7 @@ const Area = styled.div`
 `
 
 const Title = styled.p`
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 900;
   margin-top: 2%;
 `
