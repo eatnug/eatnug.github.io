@@ -8,6 +8,10 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
 @import './variables.scss';
 
+.navigator {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
 // .gatsby-resp-image-wrapper {
 //   max-width: 300px !important;
 // }
@@ -19,6 +23,10 @@
 //   margin-left: auto;
 //   margin-right: auto;
 // }
+html {
+  overflow-x: hidden;
+}
+
 .social-share > a > div > div > svg {
   @media screen and (max-width: 480px) {
     margin: 0;
