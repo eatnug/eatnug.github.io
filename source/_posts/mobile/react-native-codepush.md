@@ -1,12 +1,11 @@
 ---
-title: 아무튼 다른 아티클
 widgets:
   - position: left
     type: profile
     author: 박건태
     author_title: Eatnug
     location: Seoul/Korea
-    avatar: /img/profile.png
+    avatar: /assets/profile.png
     follow_link: 'https://github.com/eatnug'
   - position: right
     type: toc
@@ -19,13 +18,15 @@ widgets:
   - position: left
     type: archives
 toc: true
-date: 2020-09-24 00:22:27
+thumbnail: /images/react-native-codepush/cover.png
+cover: /images/react-native-codepush/cover.png
+title: codepush로 react-native 앱 심사 없이 업데이트 하기
 tags: ['react-native', 'codepush', 'tools']
 category: mobile
-thumbnail: /img/thumbnail.png
-cover: /img/cover.png
-excerpt: 코드푸시로 해보자.
+date: 2020-09-23
+excerpt: '새로 프로젝트를 시작면서 세팅하는 김에 정리해 본, react-native codepush 핸즈온 가이드이다.'
 ---
+
 ## codepush란?
 
 codepush는 react native 혹은 cordova 로 개발한 앱을 번거로운 심사과정 없이 바로 업데이트 할 수 있도록 해주는 서비스입니다. 네이티브 코드라는 막으로 감싸져있는 내부의 코드 번들을 원격 저장소에 업로드 해두고, 로컬 디바이스의 앱 번들과 비교해 차이가 있으면 다시 다운로드 받아 업데이트 하는 형태인 듯 합니다.

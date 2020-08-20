@@ -5,7 +5,7 @@ widgets:
     author: 박건태
     author_title: Eatnug
     location: Seoul/Korea
-    avatar: /img/profile.png
+    avatar: /assets/profile.png
     follow_link: 'https://github.com/eatnug'
   - position: right
     type: toc
@@ -18,8 +18,8 @@ widgets:
   - position: left
     type: archives
 toc: true
-thumbnail: /img/thumbnail.png
-cover: /img/cover.png
+thumbnail: /assets/thumbnail.png
+cover: /assets/cover.png
 title: {{ title }}
 date: {{ date }}
 tags: []

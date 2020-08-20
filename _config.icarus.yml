@@ -3,11 +3,11 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: /assets/logo.svg
 # Page metadata configurations
 head:
   # URL or path to the website's icon
-  favicon: /img/favicon.svg
+  favicon: /assets/favicon.svg
   # Open Graph metadata
   # https://hexo.io/docs/helpers.html#open-graph
   open_graph:
@@ -190,7 +190,7 @@ widgets:
     author: 박건태
     author_title: Eatnug
     location: Seoul/Korea
-    avatar: /img/profile.png
+    avatar: /assets/profile.png
     avatar_rounded: false
     gravatar:
     follow_link: "https://github.com/eatnug"
