@@ -41,7 +41,7 @@ tags: ['react', 'testing', 'translated']
 
 [Mike Cohn](http://www.mountaingoatsoftware.com/)이 소개한 테스팅 피라미드는 소프트웨어 테스팅에 있어서 아마 가장 유명한 접근법일 겁니다.
 
-![test-pyramid](./testing-pyramid.png)
+![test-pyramid](./test-pyramid.png)
 
 이에 따르면 UI 테스트는 가장 느리며 코드 작성에 큰 비용이 드는 반면, 유닛 테스트는 가장 빠르고 비용이 저렴하므로, UI 테스트보다는 유닛 테스트를 더 많이 작성해야 한다고 합니다.
 
@@ -53,7 +53,7 @@ tags: ['react', 'testing', 'translated']
 
 [Kent C. Dodds](https://kentcdodds.com/blog/write-tests)의 **테스팅 트로피**는 프론트엔트 테스트 분야에서 인기를 모으고 있습니다.
 
-![testing-trophy](./testing-trophy.png)
+![test-trophy](./test-trophy.png)
 
 그의 주장에 따르면 통합 테스트가 가장 가성비가 좋아서, 다른 테스트보다는 통합 테스트를 많이 작성해야 한다고 합니다.
 
