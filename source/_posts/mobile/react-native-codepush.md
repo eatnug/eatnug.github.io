@@ -24,7 +24,7 @@ title: codepush로 react-native 앱 심사 없이 업데이트 하기
 tags: ['react-native', 'codepush', 'tools']
 category: mobile
 date: 2020-09-23
-excerpt: '새로 프로젝트를 시작면서 세팅하는 김에 정리해 본, react-native codepush 핸즈온 가이드이다.'
+excerpt: '읽으면서 바로 따라할 수 있는 react-native codepush 핸즈 온 가이드'
 ---
 
 ## codepush란?
