@@ -65,4 +65,22 @@ article:
   thumbnail: true
 deploy:
   type: ''
+robotstxt:
+  useragent: "*"
+  allow:
+    - /
+  sitemap: https://eatnug.github.io/sitemap.xml
+nofollow:
+  enable: false
+  exclude:
+  - exclude1.com
+  - exclude2.com
+feed:
+  type: rss2
+  path: rss2.xml
+  limit: 10
+sitemap:
+  path: sitemap.xml
+  tag: true
+  category: true
 
