@@ -2,10 +2,10 @@
 widgets:
   - position: left
     type: profile
-    author: 박건태
-    author_title: Eatnug
+    author: Eatnug
+    author_title: Have never had an avocado
     location: Seoul/Korea
-    avatar: /assets/profile.png
+    avatar: /assets/character.png
     follow_link: 'https://github.com/eatnug'
   - position: right
     type: toc
