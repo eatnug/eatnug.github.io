@@ -8,48 +8,8 @@
     </url>
 
     <url>
-        <loc>http://eatnug.github.io/frontend/virtual-dom/</loc>
-        <lastmod>2020-09-24T03:43:54.254Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://eatnug.github.io/log/gatsby-github-pages/</loc>
-        <lastmod>2020-09-24T03:43:54.254Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://eatnug.github.io/mobile/react-native-codepush/</loc>
-        <lastmod>2020-09-24T03:43:54.254Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://eatnug.github.io/etc/eslint-prettier-ts/</loc>
-        <lastmod>2020-09-24T03:43:54.253Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://eatnug.github.io/frontend/react-redux/</loc>
-        <lastmod>2020-09-24T03:43:54.253Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://eatnug.github.io/frontend/storybook/first/</loc>
-        <lastmod>2020-09-24T03:43:54.253Z</lastmod>
+        <lastmod>2020-09-25T08:21:06.560Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -57,7 +17,47 @@
 
     <url>
         <loc>http://eatnug.github.io/frontend/modern-react-testing/first/</loc>
-        <lastmod>2020-09-24T03:43:54.253Z</lastmod>
+        <lastmod>2020-09-25T08:21:01.986Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://eatnug.github.io/frontend/storybook/first/</loc>
+        <lastmod>2020-09-25T08:20:59.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://eatnug.github.io/frontend/virtual-dom/</loc>
+        <lastmod>2020-09-25T08:20:52.652Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://eatnug.github.io/frontend/react-redux/</loc>
+        <lastmod>2020-09-25T08:20:48.972Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://eatnug.github.io/log/gatsby-github-pages/</loc>
+        <lastmod>2020-09-25T08:20:42.658Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://eatnug.github.io/mobile/react-native-codepush/</loc>
+        <lastmod>2020-09-25T08:20:39.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
